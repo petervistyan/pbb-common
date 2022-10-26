@@ -1,0 +1,19 @@
+{
+  "name": "pbb-common",
+  "version": "0.0.0",
+  "description": "Common functionalities",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petervistyan/pbb-common.git"
+  },
+  "author": "pv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petervistyan/pbb-common/issues"
+  },
+  "homepage": "https://github.com/petervistyan/pbb-common#readme"
+}
