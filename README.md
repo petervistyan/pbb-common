@@ -1,2 +1,2 @@
 # pbb-common
-Common functionalities
+Common functionalities between projects use this package instead of duplications
